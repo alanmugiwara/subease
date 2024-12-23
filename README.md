@@ -10,5 +10,5 @@
 [![maintainability](https://api.codeclimate.com/v1/badges/6982b78246699cd2458f/maintainability)](https://codeclimate.com/github/alanmugiwara/Juh_bot/maintainability) 
 [![test Coverage](https://api.codeclimate.com/v1/badges/6982b78246699cd2458f/test_coverage)](https://codeclimate.com/github/alanmugiwara/Juh_bot/test_coverage)
 
-[![last release](https://img.shields.io/github/v/release/alanmugiwara/juh_bot)](https://github.com/alanmugiwara)
-[![downloads counter](https://img.shields.io/github/downloads/alanmugiwara/juh_bot/total?color=8A2BE2)](https://github.com/alanmugiwara)
+[![last tag](https://img.shields.io/github/v/tag/alanmugiwara/subease?color=8A2BE2)](https://github.com/alanmugiwara)
+[![downloads counter](https://img.shields.io/github/downloads/alanmugiwara/subease/total?color=8A2BE2)](https://github.com/alanmugiwara)
